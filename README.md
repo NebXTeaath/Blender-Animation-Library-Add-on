@@ -1,4 +1,3 @@
-**Blender Animation Library Add-on**
 This Blender add-on streamlines the process of saving and applying animations, making it easier to reuse motion data efficiently. The add-on allows users to:
 
 Save animations with keyframe data for selected bones or all bones.
