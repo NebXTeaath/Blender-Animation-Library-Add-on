@@ -50,7 +50,7 @@ Watch the demo video below to see the add-on in action:
      - In Pose Mode, if bones are selected, only those bones’ keyframes are exported.
      - In Object Mode, all keyframes are exported.
 4. **Browse & Apply:**  
-   Use the Animation Browser to search, view thumbnails, apply, or delete animations.
+   Use the Animation Browser to search, apply, or delete animations.
 5. **Feedback:**  
    Informative messages are displayed after each operation (e.g., "Exported animation for selected bones." or "Applied animation: X at playhead Y with blend Z").
 
